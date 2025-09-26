@@ -1,3 +1,4 @@
+
 // 1. Import the mysql2 library
 const mysql = require('mysql2');
 
