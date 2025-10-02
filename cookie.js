@@ -8,7 +8,6 @@ const dbConfig = {
   password: 'VnYJ7qegT6raBjX!',
   database: 'cookiegocollector_db' // Main database
 };
-
 // Create a Database Connection
 const connection = mysql.createConnection(dbConfig);
 
@@ -58,18 +57,28 @@ connection.connect((error) => {
                 console.error('Error writing data:', error);
               } else {
                 console.log('Data written successfully.');
-                console.log(rows);
               }
             });
           });
 
-          // Close the Connection
-          connection.end((error) => {
+          // Read data from the new table
+          const readNewTableQuery = `SELECT * FROM ${newTableName}`;
+          connection.query(readNewTableQuery, (error, newTableRows) => {
             if (error) {
-              console.error('Error closing the connection:', error);
-              return;
+              console.error('Error reading data from new table:', error);
+            } else {
+              console.log(`Data read successfully from ${newTableName}:`);
+              console.log(newTableRows);
+
+              // Close the Connection
+              connection.end((error) => {
+                if (error) {
+                  console.error('Error closing the connection:', error);
+                  return;
+                }
+                console.log('MySQL connection is closed.');
+              });
             }
-            console.log('MySQL connection is closed.');
           });
         }
       });
