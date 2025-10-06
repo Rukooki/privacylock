@@ -8,6 +8,7 @@ const dbConfig = {
   password: 'VnYJ7qegT6raBjX!',
   database: 'cookiegocollector_db' // Main database
 };
+
 // Create a Database Connection
 const connection = mysql.createConnection(dbConfig);
 
@@ -32,11 +33,11 @@ connection.connect((error) => {
       const newTableName = 'cookie_data';
       const createTableQuery = `
         CREATE TABLE IF NOT EXISTS ${newTableName} (
-          RetentionPeriod VARCHAR(255),
-          Platform VARCHAR(255),
-          CookieName VARCHAR(255),
-          Category VARCHAR(255),
-          Domain VARCHAR(255),
+          RetentionPeriod ,
+          Platform TEXT,
+          CookieName TEXT,
+          Category TEXT,
+          Domain TEXT,
           Description TEXT
         );
       `;
@@ -60,7 +61,6 @@ connection.connect((error) => {
               }
             });
           });
-
           // Read data from the new table
           const readNewTableQuery = `SELECT * FROM ${newTableName}`;
           connection.query(readNewTableQuery, (error, newTableRows) => {
