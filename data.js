@@ -8,8 +8,9 @@ const dbConfig = {
 };
 
 async function migrateData() {
+  let connection;
   try {
-    const connection = await mysql.createConnection(dbConfig);
+    connection = await mysql.createConnection(dbConfig);
     console.log('Successfully connected to the MySQL database.');
 
     const tableName = 'cookie_detail';
@@ -45,20 +46,21 @@ async function migrateData() {
       INSERT INTO ${newTableName} (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
       VALUES ?
     `, [insertQueries]);
+
     console.log('Data written successfully.');
 
     // Read data from the new table
     const [newTableRows] = await connection.execute(`SELECT * FROM ${newTableName}`);
     console.log(`Data read successfully from ${newTableName}:`);
     console.log(newTableRows);
-
   } catch (error) {
     console.error('Error:', error);
   } finally {
-    await connection.end();
-    console.log('MySQL connection is closed.');
+    if (connection) {
+      await connection.end();
+      console.log('MySQL connection is closed.');
+    }
   }
 }
 
 migrateData();
-
