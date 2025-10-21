@@ -1,61 +1,64 @@
-
-//Import the mysql2 library
-
-const mysql = require('mysql2');
-
-//Configure Database Credentials
+const mysql = require('mysql2/promise');
 
 const dbConfig = {
-  host: 'pentaprivacy.org', 
+  host: 'pentaprivacy.org',
   user: 'johan',
   password: 'VnYJ7qegT6raBjX!',
-  database: 'cookiegocollector_db' 
+  database: 'cookiegocollector_db'
 };
 
-//Create a Database Connection
+async function migrateData() {
+  try {
+    const connection = await mysql.createConnection(dbConfig);
+    console.log('Successfully connected to the MySQL database.');
 
-const connection = mysql.createConnection(dbConfig);
+    const tableName = 'cookie_detail';
+    const newTableName = 'cookie_data';
 
-//Establish the Connection
-
-connection.connect(error => {
-  if (error) {
-
-    // If there's an error connecting, log it and exit.
-
-    console.error('Error connecting to the database:', error);
-    return;
-  }
-  console.log('Successfully connected to the MySQL database.');
-  
-  // 5. Execute a Query to Verify the Connection
-
-  connection.query('SELECT DATABASE() as db_name;', (err, results) => {
-    if (err) {
-      console.error('Error executing query:', err);
-    } else {
-      console.log("You're connected to database:", results[0].db_name);
-    }
-
-    // 6. Read Data from the Database
-
-const tableName = 'cookie_detail';
-connection.query(`SELECT * FROM cookie_detail WHERE \`category\` = 'functional' ORDER BY RetentionPeriod DESC`, (err, results) => {
-   if (err) {
-    console.error('Error reading data:', err);
-  } else {
+    // Read data from the main database
+    const [rows] = await connection.execute(`SELECT * FROM ${tableName} WHERE category = 'functional' ORDER BY RetentionPeriod DESC`);
     console.log(`Data read successfully from ${tableName}:`);
-    console.log(results);
+
+    // Create a new table in the main database
+    await connection.execute(`
+      CREATE TABLE IF NOT EXISTS ${newTableName} (
+        RetentionPeriod TEXT,
+        Platform TEXT,
+        CookieName TEXT,
+        Category TEXT,
+        Domain TEXT,
+        Description TEXT
+      );
+    `);
+    console.log(`Table ${newTableName} created successfully.`);
+
+    // Write data to the new table
+    const insertQueries = rows.map((row) => [
+      row.RetentionPeriod,
+      row.Platform,
+      row.CookieName,
+      row.Category,
+      row.Domain,
+      row.Description
+    ]);
+    await connection.query(`
+      INSERT INTO ${newTableName} (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
+      VALUES ?
+    `, [insertQueries]);
+    console.log('Data written successfully.');
+
+    // Read data from the new table
+    const [newTableRows] = await connection.execute(`SELECT * FROM ${newTableName}`);
+    console.log(`Data read successfully from ${newTableName}:`);
+    console.log(newTableRows);
+
+  } catch (error) {
+    console.error('Error:', error);
+  } finally {
+    await connection.end();
+    console.log('MySQL connection is closed.');
   }
-  
-      // 7. Close the Connection
-      
-      connection.end(err => {
-        if (err) {
-          return console.log('Error closing the connection:', err.message);
-        }
-        console.log('MySQL connection is closed.');
-      });
-    });
-  });
-});
+}
+
+migrateData();
+
