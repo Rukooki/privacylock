@@ -1,44 +1,158 @@
-
-// 1. Import the mysql2 library
-const mysql = require('mysql2');
-
-// 2. --- IMPORTANT ---
-// Replace these placeholder values with your actual database credentials.
+const mysql = require('mysql2/promise');
 const dbConfig = {
-  host: 'pentaprivacy.org',      // Or your database host IP/domain
+  host: 'pentaprivacy.org',
   user: 'johan',
   password: 'VnYJ7qegT6raBjX!',
-  database: 'cookiegocollector_db' // The database you want to connect to
+  database: 'cookiegoocollector_db'
 };
 
-// 3. Create a connection to the database
-const connection = mysql.createConnection(dbConfig);
+/*const Tables = [
+  { name: 'cookie_detail', newName: 'cookie_data', category: 'functional' },
+  // Add more tables as needed
+];
 
-// 4. Establish the connection
-connection.connect(error => {
-  if (error) {
-    // If there's an error connecting, log it and exit.
-    console.error('Error connecting to the database:', error);
-    return;
-  }
-  
-  console.log('Successfully connected to the MySQL database.');
+async function migrateData() {
+  let connection;
+  try {
+    connection = await mysql.createConnection(dbConfig);
+    console.log('Successfully connected to the MySQL database.');
 
-  // 5. You can now execute queries.
-  // Let's run a simple query to check the connection.
-  connection.query('SELECT DATABASE() as db_name;', (err, results) => {
-    if (err) {
-      console.error('Error executing query:', err);
-    } else {
-      console.log("You're connected to database:", results[0].db_name);
+    // Loop to migrate each table
+    for (const table of Tables) {
+      await migrateTable(connection, table);
     }
 
-    // 6. Always close the connection when you're done.
-    connection.end(err => {
-      if (err) {
-        return console.log('Error closing the connection:', err.message);
-      }
+    // Loop to read each table into its own list of records
+    const records = {};
+    for (const table of Tables) {
+      records[table.newName] = await readTable(connection, table.newName);
+    }
+
+    // Create an output table from different input tables
+    await createOutputTable(connection, records);
+
+  } catch (error) {
+    console.error('Error:', error);
+  } finally {
+    if (connection) {
+      await connection.end();
       console.log('MySQL connection is closed.');
-    });
-  });
-});
+    }
+  }
+}
+
+async function migrateTable(connection, table) {
+  try {
+    // Read data from the main database
+    const [rows] = await connection.execute(`SELECT * FROM ${table.name} WHERE category = '${table.category}' ORDER BY RetentionPeriod DESC`);
+    console.log(`Data read successfully from ${table.name}:`);
+
+    // Create a new table in the main database
+    await connection.execute(`
+      CREATE TABLE IF NOT EXISTS ${table.newName} (
+        RetentionPeriod TEXT,
+        Platform TEXT,
+        CookieName TEXT,
+        Category TEXT,
+        Domain TEXT,
+        Description TEXT
+      );
+    `);
+    console.log(`Table ${table.newName} created successfully.`);
+
+    // Write data to the new table
+    const insertQueries = rows.map((row) => [
+      row.RetentionPeriod,
+      row.Platform,
+      row.CookieName,
+      row.Category,
+      row.Domain,
+      row.Description
+    ]);
+    await connection.query(`
+      INSERT INTO ${table.newName} (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
+      VALUES ?
+    `, [insertQueries]);
+    console.log('Data written successfully.');
+  } catch (error) {
+    console.error(`Error migrating table ${table.name}:`, error);
+  }
+}
+
+async function readTable(connection, tableName) {
+  try {
+    const [rows] = await connection.execute(`SELECT * FROM ${tableName}`);
+    console.log(`Data read successfully from ${tableName}:`);
+    return rows;
+  } catch (error) {
+    console.error(`Error reading table ${tableName}:`, error);
+  }
+}
+
+async function createOutputTable(connection, records) {
+  try {
+    // Create a new table for the output
+    await connection.execute(`
+      CREATE TABLE IF NOT EXISTS output_table (
+        RetentionPeriod TEXT,
+        Platform TEXT,
+        CookieName TEXT,
+        Category TEXT,
+        Domain TEXT,
+        Description TEXT
+      );
+    `);
+    console.log('Output table created successfully.');
+
+    // Insert data into the output table
+    const outputData = [];
+    for (const tableName in records) {
+      outputData.push(...records[tableName]);
+    }
+    const insertQueries = outputData.map((row) => [
+      row.RetentionPeriod,
+      row.Platform,
+      row.CookieName,
+      row.Category,
+      row.Domain,
+      row.Description
+    ]);
+    await connection.query(`
+      INSERT INTO output_table (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
+      VALUES ?
+    `, [insertQueries]);
+    console.log('Data written to output table successfully.');
+  } catch (error) {
+    console.error('Error creating output table:', error);
+  }
+}
+
+migrateData();*/
+
+async function testConnection() {
+  let connection;
+  try {
+    connection = await mysql.createConnection(dbConfig);
+    console.log('Successfully connected to the MySQL database.');
+    console.log(`You're connected to database: ${dbConfig.database}`);
+
+    const [rows] = await connection.execute('SHOW DATABASES');
+    console.log('Available databases:');
+    console.log(rows);
+
+    const [tables] = await connection.execute('SHOW TABLES');
+    console.log('Available tables:');
+    console.log(tables);
+  } catch (error) {
+    console.error('Error:', error);
+  } finally {
+    if (connection) {
+      await connection.end();
+      console.log('MySQL connection is closed.');
+    }
+  }
+}
+
+testConnection();
+
+
