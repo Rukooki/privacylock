@@ -3,10 +3,10 @@ const dbConfig = {
   host: 'pentaprivacy.org',
   user: 'johan',
   password: 'VnYJ7qegT6raBjX!',
-  database: 'cookiegoocollector_db'
+  database: 'cookiegocollector_db'
 };
 
-const Tables = [
+const tables = [
   { name: 'cookie_detail', newName: 'cookie_data', category: 'functional' },
   // Add more tables as needed
 ];
@@ -15,20 +15,18 @@ async function migrateData() {
   let connection;
   try {
     connection = await mysql.createConnection(dbConfig);
-    console.log('Successfully connected to the MySQL database.');
+    console.log('Connected to the database');
 
-    // Loop to migrate each table
-    for (const table of Tables) {
+    for (const table of tables) {
       await migrateTable(connection, table);
     }
 
     // Loop to read each table into its own list of records
     const records = {};
-    for (const table of Tables) {
+    for (const table of tables) {
       records[table.newName] = await readTable(connection, table.newName);
     }
 
-    // Create an output table from different input tables
     await createOutputTable(connection, records);
 
   } catch (error) {
@@ -36,16 +34,15 @@ async function migrateData() {
   } finally {
     if (connection) {
       await connection.end();
-      console.log('MySQL connection is closed.');
+      console.log('Connection closed');
     }
   }
 }
 
 async function migrateTable(connection, table) {
   try {
-    // Read data from the main database
-    const [rows] = await connection.execute(`SELECT * FROM ${table.name} WHERE category = '${table.category}' ORDER BY RetentionPeriod DESC`);
-    console.log(`Data read successfully from ${table.name}:`);
+    const [rows] = await connection.execute(`SELECT * FROM ${table.name} WHERE category = ? ORDER BY RetentionPeriod DESC`, [table.category]);
+    console.log(`Read ${rows.length} rows from ${table.name}`);
 
     // Create a new table in the main database
     await connection.execute(`
@@ -58,10 +55,8 @@ async function migrateTable(connection, table) {
         Description TEXT
       );
     `);
-    console.log(`Table ${table.newName} created successfully.`);
-
-    // Write data to the new table
-    const insertQueries = rows.map((row) => [
+    const insertQuery = `INSERT INTO ${table.newName} (RetentionPeriod, Platform, CookieName, Category, Domain, Description) VALUES ?`;
+    const values = rows.map((row) => [
       row.RetentionPeriod,
       row.Platform,
       row.CookieName,
@@ -69,11 +64,9 @@ async function migrateTable(connection, table) {
       row.Domain,
       row.Description
     ]);
-    await connection.query(`
-      INSERT INTO ${table.newName} (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
-      VALUES ?
-    `, [insertQueries]);
-    console.log('Data written successfully.');
+
+    await connection.query(insertQuery, [values]);
+    console.log(`Inserted ${rows.length} rows into ${table.newName}`);
   } catch (error) {
     console.error(`Error migrating table ${table.name}:`, error);
   }
@@ -82,7 +75,7 @@ async function migrateTable(connection, table) {
 async function readTable(connection, tableName) {
   try {
     const [rows] = await connection.execute(`SELECT * FROM ${tableName}`);
-    console.log(`Data read successfully from ${tableName}:`);
+    console.log(`Read ${rows.length} rows from ${tableName}`);
     return rows;
   } catch (error) {
     console.error(`Error reading table ${tableName}:`, error);
@@ -109,7 +102,9 @@ async function createOutputTable(connection, records) {
     for (const tableName in records) {
       outputData.push(...records[tableName]);
     }
-    const insertQueries = outputData.map((row) => [
+
+    const insertQuery = `INSERT INTO output_table (RetentionPeriod, Platform, CookieName, Category, Domain, Description) VALUES ?`;
+    const values = outputData.map((row) => [
       row.RetentionPeriod,
       row.Platform,
       row.CookieName,
@@ -117,11 +112,9 @@ async function createOutputTable(connection, records) {
       row.Domain,
       row.Description
     ]);
-    await connection.query(`
-      INSERT INTO output_table (RetentionPeriod, Platform, CookieName, Category, Domain, Description)
-      VALUES ?
-    `, [insertQueries]);
-    console.log('Data written to output table successfully.');
+
+    await connection.query(insertQuery, [values]);
+    console.log(`Inserted ${outputData.length} rows into output_table`);
   } catch (error) {
     console.error('Error creating output table:', error);
   }
