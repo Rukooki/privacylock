@@ -6,7 +6,7 @@ const dbConfig = {
   database: 'cookiegoocollector_db'
 };
 
-/*const Tables = [
+const Tables = [
   { name: 'cookie_detail', newName: 'cookie_data', category: 'functional' },
   // Add more tables as needed
 ];
@@ -127,32 +127,4 @@ async function createOutputTable(connection, records) {
   }
 }
 
-migrateData();*/
-
-async function testConnection() {
-  let connection;
-  try {
-    connection = await mysql.createConnection(dbConfig);
-    console.log('Successfully connected to the MySQL database.');
-    console.log(`You're connected to database: ${dbConfig.database}`);
-
-    const [rows] = await connection.execute('SHOW DATABASES');
-    console.log('Available databases:');
-    console.log(rows);
-
-    const [tables] = await connection.execute('SHOW TABLES');
-    console.log('Available tables:');
-    console.log(tables);
-  } catch (error) {
-    console.error('Error:', error);
-  } finally {
-    if (connection) {
-      await connection.end();
-      console.log('MySQL connection is closed.');
-    }
-  }
-}
-
-testConnection();
-
-
+migrateData();
