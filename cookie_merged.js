@@ -1,4 +1,3 @@
-
 const mysql = require('mysql2/promise');
 
 console.log('Script started');
@@ -17,7 +16,7 @@ const tables = [
   },
   {
     name: 'wp_frmt_form_entry_meta',
-    fields: ['meta_id', 'entry_id', 'meta_key', 'meta_value', 'date_created', 'status']
+    fields: ['meta_id', 'entry_id', 'meta_key', 'meta_value', 'date_created']
   },
   {
     name: 'wp_frmt_form_reports',
@@ -40,6 +39,9 @@ async function mergeTables() {
 
     // Create a new table to store the merged data
     await createMergedTable(connection);
+
+    // Truncate the table to delete all existing data
+    await truncateTable(connection, resultTable);
 
     // Extract data from WP tables and write to merged table
     for (const table of tables) {
@@ -75,6 +77,15 @@ async function createMergedTable(connection) {
   }
 }
 
+async function truncateTable(connection, tableName) {
+  try {
+    await connection.execute(`TRUNCATE TABLE ${tableName}`);
+    console.log(`Table ${tableName} truncated successfully`);
+  } catch (error) {
+    console.error(`Error truncating table ${tableName}:`, error);
+  }
+}
+
 async function extractAndWriteData(connection, tableName, fields) {
   try {
     console.log(`Reading data from ${tableName}...`);
@@ -82,56 +93,67 @@ async function extractAndWriteData(connection, tableName, fields) {
     console.log(`Read ${rows.length} rows from ${tableName}`);
 
     let mappedData;
-    if (tableName === 'wp_frmt_form_entry') {
+    if (tableName === 'wp_frmt_form_entry_meta') {
       mappedData = rows.map((row) => {
-        return [
-          '', // Retention
-          'Forminator', // Platform
-          `Form ${row.form_id}`, // CookieName
-          'Form Submission', // Category
-          '', // Domain
-          `Form submission from ${row.date_created}` // Description
-        ];
-      });
-    } else if (tableName === 'wp_frmt_form_entry_meta') {
-      mappedData = rows.map((row) => {
-        return [
-          '', // Retention
-          'Forminator', // Platform
-          row.meta_key, // CookieName
-          'Form Meta', // Category
-          '', // Domain
-          row.meta_value // Description
-        ];
-      });
-    } else if (tableName === 'wp_frmt_form_reports') {
-      mappedData = rows.map((row) => {
-        return [
-          '', // Retention
-          'Forminator', // Platform
-          `Report ${row.report_id}`, // CookieName
-          'Form Report', // Category
-          '', // Domain
-          row.report_value // Description
-        ];
-      });
-    } else if (tableName === 'wp_frmt_form_views') {
-      mappedData = rows.map((row) => {
-        return [
-          '', // Retention
-          'Forminator', // Platform
-          `Form View ${row.view_id}`, // CookieName
-          'Form View', // Category
-          '', // Domain
-          `Form viewed from IP ${row.ip}` // Description
-        ];
-      });
+        console.log(`Processing row: ${JSON.stringify(row)}`);
+        if (row.meta_key === 'text-1') {
+          return [
+            '', // Retention
+            row.meta_value || '', // Platform
+            '', // CookieName
+            '', // Category
+            '', // Domain
+            '' // Description
+          ];
+        } else if (row.meta_key === 'text-2') {
+          return [
+            '', // Retention
+            '', // Platform
+            row.meta_value || '', // CookieName
+            '', // Category
+            '', // Domain
+            '' // Description
+          ];
+        } else if (row.meta_key === 'text-3') {
+          return [
+            '', // Retention
+            '', // Platform
+            '', // CookieName
+            row.meta_value || '', // Category
+            '', // Domain
+            '' // Description
+          ];
+        } else if (row.meta_key === 'text-4') {
+          return [
+            '', // Retention
+            '', // Platform
+            '', // CookieName
+            '', // Category
+            row.meta_value || '', // Domain
+            '' // Description
+          ];
+        } else if (row.meta_key === 'textarea-1') {
+          return [
+            '', // Retention
+            '', // Platform
+            '', // CookieName
+            '', // Category
+            '', // Domain
+            row.meta_value || '' // Description
+          ];
+        }
+        return null;
+      }).filter(Boolean);
+    } else {
+      mappedData = [];
     }
 
-    if (mappedData.length > 0) {
+    console.log(`Mapped data: ${JSON.stringify(mappedData)}`);
+
+    if (mappedData && mappedData.length > 0) {
       const insertQuery = `INSERT INTO ${resultTable} (Retention, Platform, CookieName, Category, Domain, Description) VALUES ?`;
       await connection.query(insertQuery, [mappedData]);
-      console.log(`Inserted ${rows.length} rows into ${resultTable}`);
+      console.log(`Inserted ${mappedData.length} rows into ${resultTable}`);
     } else {
       console.log(`No data to insert into ${resultTable} from ${tableName}`);
     }
