@@ -1758,3 +1758,39 @@
 {"level":"error","message":"Cookie Server: DOWN"}
 {"level":"error","message":"Docker error:"}
 {"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"info","message":"Script started"}
+{"level":"info","message":"Server running on 3000"}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
+{"level":"error","message":"Docker error:"}
+{"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
+{"level":"error","message":"Docker error:"}
+{"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
+{"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"error","message":"Docker error:"}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
+{"level":"error","message":"Docker error:"}
+{"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
+{"level":"error","message":"Docker error:"}
+{"json":{"data":[],"type":"Buffer"},"level":"error","message":"Scanner process: STOPPED (HTTP code 500) server error -  ","reason":"server error","stack":"Error: (HTTP code 500) server error -  \n    at C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:389:17\n    at getCause (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:424:7)\n    at Modem.buildPayload (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:385:5)\n    at IncomingMessage.<anonymous> (C:\\Users\\hp\\privacylock\\node_modules\\docker-modem\\lib\\modem.js:353:16)\n    at IncomingMessage.emit (node:events:519:35)\n    at endReadableNT (node:internal/streams/readable:1701:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","statusCode":500}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"error","message":"Snapshot: MISSING"}
+{"level":"error","message":"Backup: MISSING"}
+{"level":"error","message":"Logs: ERROR"}
