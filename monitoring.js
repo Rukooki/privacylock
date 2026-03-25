@@ -19,7 +19,7 @@ const logger = winston.createLogger({
 logger.info('Script started');
 console.log('Script started');
 
-const docker = new Docker({ socketPath: '//./pipe/docker_engine' }); // Windows path
+const docker = new Docker({ socketPath: '\\\\.\\pipe\\docker_engine' }); // Windows fix
 
 // Cookie Server checks
 function checkCookieServer() {
