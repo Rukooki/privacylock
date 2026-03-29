@@ -127,3 +127,5 @@ setInterval(() => {
   checkScannerProcess();
   checkLogs();
 }, 60000);
+
+//every minute
