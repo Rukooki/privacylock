@@ -33,7 +33,7 @@ let exceptionCount = 0;
 
 // Check Cookie Server health
 function checkCookieServer() {
-  axios.get('http: //localhost:8080/health')                        
+  axios.get('http://localhost:8080/health')                        
     .then(response => {
       cookieServerStatus = 'RUNNING';
       logger.info('Cookie Server: OK');
