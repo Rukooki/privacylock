@@ -2540,3 +2540,997 @@
 {"error":"","level":"error","message":"Cookie Server: DOWN"}
 {"level":"info","message":"Scanner process: STOPPED"}
 {"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Script started"}
+{"level":"info","message":"Server running on 3000"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Script started"}
+{"level":"info","message":"Server running on 3000"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\snapshot'","level":"error","message":"Snapshot: MISSING"}
+{"error":"ENOENT: no such file or directory, open 'C:\\path\\to\\logs'","level":"error","message":"Logs: ERROR"}
+{"error":"ENOENT: no such file or directory, stat 'C:\\path\\to\\backup'","level":"error","message":"Backup: MISSING"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
