@@ -3534,3 +3534,539 @@
 {"error":"","level":"error","message":"Cookie Server: DOWN"}
 {"level":"info","message":"Cookie Scanners: 0 processes"}
 {"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie monitor script started"}
+{"level":"info","message":"Running health checks..."}
+{"level":"info","message":"Monitor dashboard running on http://localhost:3000/status"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 0 processes"}
+{"level":"info","message":"Scanner process: STOPPED"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Cookie monitor script started"}
+{"level":"info","message":"Monitor dashboard running on http://localhost:3000/status"}
+{"error":"","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Monitor ready in UNKNOWN mode: http://localhost:3000/status"}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Monitor ready in UNKNOWN mode: http://localhost:3000/status"}
+{"level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
+{"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
