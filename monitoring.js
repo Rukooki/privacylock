@@ -1,4 +1,4 @@
-// === V4-FINAL: Auto-detect Docker. Does ALL 8 requirements. ===
+//Auto-detect Docker. Does ALL 8 requirements.
 const fs = require('fs').promises;
 const axios = require('axios');
 const winston = require('winston');
@@ -8,11 +8,18 @@ const util = require('util');
 const execPromise = util.promisify(exec);
 const path = require('path');
 
-// Load dockerode ONLY if installed. If not, we run in HOST mode.
+// FIX 1: Force Docker to use WSL Unix socket, not Windows pipe
 let docker = null;
 try {
   const Docker = require('dockerode');
-  docker = new Docker();
+  // If running on Windows with WSL Docker, use the Unix socket
+  const dockerOpts = process.platform === 'win32' && process.env.WSL_DISTRO_NAME
+   ? { socketPath: '/var/run/docker.sock' }
+    : process.platform === 'win32'
+   ? { socketPath: '//./pipe/docker_engine' } // fallback to Desktop
+    : { socketPath: '/var/run/docker.sock' }; // Linux/Mac default
+
+  docker = new Docker(dockerOpts);
 } catch {
   // dockerode not installed or Docker not running - we'll use HOST mode
 }
@@ -124,12 +131,15 @@ async function runDockerChecks() {
 async function runHostChecks() {
   state.mode = 'HOST';
   try {
-    const cmd = process.platform === 'win32'
-    ? `wmic process where "name='node.exe'" get CommandLine`
+    // FIX 2: If we're in WSL, use Linux commands even on Windows host
+    const isWSL =!!process.env.WSL_DISTRO_NAME;
+    const cmd = process.platform === 'win32' &&!isWSL
+     ? `wmic process where "name='node.exe'" get CommandLine`
       : `pgrep -f ${CONFIG.scannerProcessName}`;
+
     const { stdout } = await execPromise(cmd);
-    state.runningScannersCount = process.platform === 'win32'
-    ? stdout.split('\n').filter(l => l.includes(CONFIG.scannerProcessName)).length
+    state.runningScannersCount = process.platform === 'win32' &&!isWSL
+     ? stdout.split('\n').filter(l => l.includes(CONFIG.scannerProcessName)).length
       : stdout.trim()? stdout.trim().split('\n').length : 0;
     state.scannerStatus = state.runningScannersCount > 0? 'RUNNING' : 'STOPPED';
   } catch (err) {
@@ -174,7 +184,7 @@ app.get('/status', (req, res) => {
 
   if (state.mode === 'DOCKER') {
     res.json({
-    ...base,
+     ...base,
       scanners: {
         totalContainers: state.totalScannerContainers, // FUNCTION 2
         runningContainers: state.runningScannerContainers, // FUNCTION 2 + 6
@@ -189,7 +199,7 @@ app.get('/status', (req, res) => {
     });
   } else {
     res.json({
-    ...base,
+     ...base,
       scanner: state.scannerStatus, // FUNCTION 5 + 6 for host
       runningScanners: state.runningScannersCount, // FUNCTION 6
       exceptions: { hostLog: state.hostLogExceptions, total: state.hostLogExceptions } // FUNCTION 7
