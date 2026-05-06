@@ -86,7 +86,7 @@ async function checkCookieScanners() {
     // Parse output: count lines that actually contain the process name
     if (process.platform === 'win32') {
       const lines = stdout.split('\n').filter(line => line.includes(CONFIG.scannerProcessName));
-      runningScannersCount = lines.length;
+     runningScannersCount = lines.length;
     } else {
       // pgrep returns one PID per line
       runningScannersCount = stdout.trim() ? stdout.trim().split('\n').length : 0;
