@@ -4072,3 +4072,1033 @@
 {"level":"info","message":"Using HOST mode","reason":"connect ENOENT //./pipe/docker_engine"}
 {"level":"info","message":"Monitor ready in UNKNOWN mode: http://localhost:3000/status"}
 {"level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie monitor script started"}
+{"level":"info","message":"Running health checks..."}
+{"level":"info","message":"Monitor dashboard running on http://localhost:3000/status"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Cookie monitor script started"}
+{"level":"info","message":"Running health checks..."}
+{"level":"info","message":"Monitor dashboard running on http://localhost:3000/status"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Cookie monitor script started"}
+{"level":"info","message":"Running health checks..."}
+{"level":"info","message":"Monitor dashboard running on http://localhost:3000/status"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 3 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 2 processes found"}
+{"level":"info","message":"Health checks complete"}
+{"level":"info","message":"Running health checks..."}
+{"code":"ECONNREFUSED","error":"connect ECONNREFUSED ::1:8080","level":"error","message":"Cookie Server: DOWN"}
+{"level":"warn","message":"Snapshot file not found","path":"C:/Users/hp/privacylock/data/snapshot.json"}
+{"level":"warn","message":"Log file not found","path":"C:/Users/hp/privacylock/logs/app.log"}
+{"level":"warn","message":"Backup file not found","path":"C:/Users/hp/privacylock/data/backup.json"}
+{"level":"info","message":"Cookie Scanners: 4 processes found"}
+{"level":"info","message":"Scanner process: RUNNING"}
+{"level":"info","message":"Health checks complete"}
